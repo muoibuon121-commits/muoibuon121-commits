@@ -3,16 +3,14 @@
       Hello World! I'm Muối AKA David Chaves  
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqc2F5MmRnNHZrM3pyNTFheGt6OGZxeWdnNm5oNGtmbXM0dmd2eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif" width="60" align="center">
   </h1>
-  <p><b>Quantitative Developer | Financial Volatility Analyst</b></p>
 </div>
-#
-<div align="center">
+<div>
   <img src="quant-student-avatar.png" width="250" alt="Quant Student" />
 
   <h1>Hello, World! 👋</h1>
 </div>
 
-<div align="center">
+<div>
   <p>
     I am a Computer Science undergraduate based in Vietnam with a strong background in <b>Quantitative Finance and Machine Learning</b>. I am actively preparing for graduate studies, aspiring to pursue a research-based MSc/PhD at the University of Toronto (UofT). 
   </p>
