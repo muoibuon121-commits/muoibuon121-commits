@@ -5,7 +5,6 @@
   </h1>
 </div>
 <div>
-  <img src="quant-student-avatar.png" width="250" alt="Quant Student" />
 
 
   <p>
