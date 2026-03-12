@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  # Tự động chạy hàng ngày
+  schedule:
+    - cron: "0 0 * * *"
+  # Cho phép chạy thủ công từ tab Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Bước 1: Kiểm tra mã nguồn
+      - uses: actions/checkout@v3
+
+      # Bước 2: Tạo ảnh con rắn từ contributions
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: muoibuon121-commits # <--- THAY BẰNG USERNAME CỦA BẠN
+          # Các tệp đầu ra (bạn có thể tùy chỉnh tên)
+          gif_out_path: github-contribution-grid-snake.gif
+          svg_out_path: github-contribution-grid-snake.svg
+
+      # Bước 3: Đẩy các tệp đã tạo lên một branch khác (ví dụ: 'output')
+      - uses: crazy-max/github-action-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
