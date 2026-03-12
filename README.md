@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>
       Hello World! I'm Muoibuon AKA David Chaves  
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqc2F5MmRnNHZrM3pyNTFheGt6OGZxeWdnNm5oNGtmbXM0dmd2eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif" width="60" align="center">
