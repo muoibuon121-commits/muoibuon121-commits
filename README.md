@@ -3,10 +3,7 @@
   <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqc2F5MmRnNHZrM3pyNTFheGt6OGZxeWdnNm5oNGtmbXM0dmd2eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif" width="100">
   <p><b>Quantitative Developer | Financial Volatility Analyst</b></p>
-</div>>
-
-  <h1></h1>
- 
+</div>
 
   <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
