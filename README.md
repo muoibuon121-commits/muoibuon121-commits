@@ -3,7 +3,7 @@
 # Hi there, I'm muoibuon121-commits 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0X2lkPU1fU0lfT0ZGJmN0PWc/3o7TKSjPQC1Q7UsC88/giphy.gif" width="600" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0X2lkPU1fU0lfT0ZGJmN0PWc/3o7TKSjPQC1Q7UsC88/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWhsdTh6dGlma3hhMjZ6NXd4eXprZ2FoamsyMm02NXYxNzN3bXR6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.webp)" width="600" />
 </div>
 
 ### 🛠 Languages & Frameworks
