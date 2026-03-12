@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+muoibuon+👋" alt="Typing SVG" />
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqc2F5MmRnNHZrM3pyNTFheGt6OGZxeWdnNm5oNGtmbXM0dmd2eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif" width="100">
+  <h1>
+    Hi there! I'm muoibuon 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqc2F5MmRnNHZrM3pyNTFheGt6OGZxeWdnNm5oNGtmbXM0dmd2eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif" width="60" align="center">
+  </h1>
   <p><b>Quantitative Developer | Financial Volatility Analyst</b></p>
 </div>
 
