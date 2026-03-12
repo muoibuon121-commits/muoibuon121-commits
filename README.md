@@ -20,33 +20,19 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge" alt="Python" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge" alt="C++" /><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge" alt="R" /><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge" alt="Ruby" /><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge" alt="Swift" /><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
 
 ### 🧠 Data Science & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge" alt="PyTorch" /><img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge" alt="Pandas" /><img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge" alt="NumPy" />
 
 ### 🛠 Tools & Environments
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge" alt="VS Code" /><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge" alt="Xcode" /><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge" alt="Notion" />
 
 ### 🎓 Education & Extras
-<p>
-  <img src="https://img.shields.io/badge/Vietnam%20Japan%20University-800000?style=for-the-badge" alt="VJU" />
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
+<img src="https://img.shields.io/badge/Vietnam%20Japan%20University-800000?style=for-the-badge" alt="VJU" /><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge" alt="Udemy" /><img src="https://img.shields.io/badge/import%20antigravity-FFCB05?style=for-the-badge" alt="Antigravity" />
+
+### 🚀 Future Roadmap (Research & Quant)
+<img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge" alt="Julia" /><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge" alt="CUDA" /><img src="https://img.shields.io/badge/JAX-4A154B?style=for-the-badge" alt="JAX" /><img src="https://img.shields.io/badge/QuantLib-F37021?style=for-the-badge" alt="QuantLib" /><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" /><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge" alt="Spark" />s.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
   <img src="https://img.shields.io/badge/import-antigravity-FFCB05?style=for-the-badge&logo=python&logoColor=3776AB" alt="Antigravity" />
 </p>
 
