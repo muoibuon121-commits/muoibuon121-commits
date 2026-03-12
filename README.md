@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqc2F5MmRnNHZrM3pyNTFheGt6OGZxeWdnNm5oNGtmbXM0dmd2eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ujrj9aoOdNvXO/giphy.gif" width="200" />
   
-  <h1>Hi there! I'm muoibuon </h1>
+  <p>Hi there! I'm muoibuon <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqc2F5MmRnNHZrM3pyNTFheGt6OGZxeWdnNm5oNGtmbXM0dmd2eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif" width="100"><p>
   <p>Quantitative Developer | Financial Volatility Analyst</p>
 </div>
 
