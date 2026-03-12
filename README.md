@@ -1,8 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqc2F5MmRnNHZrM3pyNTFheGt6OGZxeWdnNm5oNGtmbXM0dmd2eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ujrj9aoOdNvXO/giphy.gif" width="600" />
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqc2F5MmRnNHZrM3pyNTFheGt6OGZxeWdnNm5oNGtmbXM0dmd2eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ujrj9aoOdNvXO/giphy.gif" width="300" />
+  
+  <h1>Hi there! I'm muoibuon 👋</h1>
+  <p>Quantitative Developer | Financial Volatility Analyst</p>
+</div>
 
   <h1></h1>
-  [![Play My Portfolio Game](https://img.shields.io/badge/PLAY-MY_PORTFOLIO_GAME-blue?style=for-the-badge&logo=gamepad)](https://your-github-io-link.com)
+ 
 
   <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
