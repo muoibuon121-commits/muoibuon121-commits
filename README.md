@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF2dTg0aGNlczN0d2UwdjZqczJvZW5nbnZka2RkM2M1aGhvcnZxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" />
 
-  <h1>Hi there, I'm muoibuon121-commits 👋</h1>
+  <h1></h1>
 
   <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
