@@ -17,20 +17,32 @@
 
 ---
 
-<div>
-### Programming Languages
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge" alt="Python" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge" alt="C++" /><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge" alt="R" /><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge" alt="Ruby" /><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge" alt="Swift" /><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+<p>
+  <b>Programming Languages:</b> 
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-### Data Science & Machine Learning
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge" alt="PyTorch" /><img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge" alt="Pandas" /><img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge" alt="NumPy" />
+<p>
+  <b>Data Science & Machine Learning:</b> 
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" /><img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /><img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
-### Tools & Environments
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge" alt="VS Code" /><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge" alt="Xcode" /><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge" alt="Notion" />
+<p>
+  <b>Tools & Environments:</b> 
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" /><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /><img src="https://img.shields.io/badge/Project%20IDX-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Project IDX" /><img src="https://img.shields.io/badge/import%20antigravity-FFCB05?style=for-the-badge&logo=python&logoColor=3776AB" alt="Antigravity" />
+</p>
 
-### Education & Extras
-<img src="https://img.shields.io/badge/Vietnam%20Japan%20University-800000?style=for-the-badge" alt="VJU" /><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge" alt="Udemy" /><img src="https://img.shields.io/badge/import%20antigravity-FFCB05?style=for-the-badge" alt="Antigravity" />
+<p>
+  <b>Education & Extras:</b> 
+  <img src="https://img.shields.io/badge/Vietnam%20Japan%20University-800000?style=for-the-badge" alt="VJU" /><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
+</p>
 
-### Future Roadmap (Research & Quant)
-<img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge" alt="Julia" /><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge" alt="CUDA" /><img src="https://img.shields.io/badge/JAX-4A154B?style=for-the-badge" alt="JAX" /><img src="https://img.shields.io/badge/QuantLib-F37021?style=for-the-badge" alt="QuantLib" /><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" /><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge" alt="Spark" />
-### AI Subfields & Research Focus (Future)
-<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-0052CC?style=for-the-badge" alt="Time Series" /><img src="https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=for-the-badge" alt="Reinforcement Learning" /><img src="https://img.shields.io/badge/NLP%20%26%20Sentiment%20Analysis-119280?style=for-the-badge" alt="NLP" /><img src="https://img.shields.io/badge/Graph%20Neural%20Networks-6B4226?style=for-the-badge" alt="GNNs" /><img src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-E040FB?style=for-the-badge" alt="XAI" /><img src="https://img.shields.io/badge/Algorithmic%20Trading-8B0000?style=for-the-badge" alt="Algorithmic Trading" /><img src="https://img.shields.io/badge/Generative%20AI-00C4CC?style=for-the-badge" alt="GenAI" />
+<p>
+  <b>Future Roadmap (Research & Quant):</b> 
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" /><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" /><img src="https://img.shields.io/badge/JAX-4A154B?style=for-the-badge&logo=google&logoColor=white" alt="JAX" /><img src="https://img.shields.io/badge/QuantLib-F37021?style=for-the-badge" alt="QuantLib" /><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+</p>
+
+<p>
+  <b>AI Subfields & Research Focus:</b> 
+  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-0052CC?style=for-the-badge" alt="Time Series" /><img src="https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=for-the-badge" alt="Reinforcement Learning" /><img src="https://img.shields.io/badge/NLP%20%26%20Sentiment%20Analysis-119280?style=for-the-badge" alt="NLP" /><img src="https://img.shields.io/badge/Graph%20Neural%20Networks-6B4226?style=for-the-badge" alt="GNNs" /><img src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-E040FB?style=for-the-badge" alt="XAI" /><img src="https://img.shields.io/badge/Algorithmic%20Trading-8B0000?style=for-the-badge" alt="Algorithmic Trading" /><img src="https://img.shields.io/badge/Generative%20AI-00C4CC?style=for-the-badge" alt="GenAI" />
+</p>
