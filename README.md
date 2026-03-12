@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF2dTg0aGNlczN0d2UwdjZqczJvZW5nbnZka2RkM2M1aGhvcnZxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqc2F5MmRnNHZrM3pyNTFheGt6OGZxeWdnNm5oNGtmbXM0dmd2eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ujrj9aoOdNvXO/giphy.gif" width="600" />
 
   <h1></h1>
   [![Play My Portfolio Game](https://img.shields.io/badge/PLAY-MY_PORTFOLIO_GAME-blue?style=for-the-badge&logo=gamepad)](https://your-github-io-link.com)
