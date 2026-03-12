@@ -46,6 +46,4 @@
   <b>AI Subfields & Research Focus:</b> 
   <img align="middle" src="https://img.shields.io/badge/Time%20Series%20Forecasting-0052CC?style=for-the-badge" alt="Time Series" /><img align="middle" src="https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=for-the-badge" alt="Reinforcement Learning" /><img align="middle" src="https://img.shields.io/badge/NLP%20%26%20Sentiment%20Analysis-119280?style=for-the-badge" alt="NLP" /><img align="middle" src="https://img.shields.io/badge/Graph%20Neural%20Networks-6B4226?style=for-the-badge" alt="GNNs" /><img align="middle" src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-E040FB?style=for-the-badge" alt="XAI" /><img align="middle" src="https://img.shields.io/badge/Algorithmic%20Trading-8B0000?style=for-the-badge" alt="Algorithmic Trading" /><img align="middle" src="https://img.shields.io/badge/Generative%20AI-00C4CC?style=for-the-badge" alt="GenAI" />
 </p>
-<div align="center">
-  <img src="https://github.com/muoibuon121-commits/muoibuon121-commits/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
+
