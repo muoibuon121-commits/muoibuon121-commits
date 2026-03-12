@@ -7,10 +7,7 @@
 <div>
   <img src="quant-student-avatar.png" width="250" alt="Quant Student" />
 
-  <h1>Hello, World! 👋</h1>
-</div>
 
-<div>
   <p>
     I am a Computer Science undergraduate based in Vietnam with a strong background in <b>Quantitative Finance and Machine Learning</b>. I am actively preparing for graduate studies, aspiring to pursue a research-based MSc/PhD at the University of Toronto (UofT). 
   </p>
